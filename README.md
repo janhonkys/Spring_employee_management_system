@@ -19,9 +19,9 @@ Web application provides several key functions to manage and display employee in
 - Bootstrap: Front-end framework for responsive and mobile-first web development.
 
 ## Project structure
-- HTML Templates
-- Java Classes
-- Database Configuration
+- HTML templates
+- Java classes
+- Database configuration
 - Testing
 
 ## Running the application
