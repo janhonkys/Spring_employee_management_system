@@ -29,3 +29,6 @@ To run the application locally:
 - Make sure you have MySQL installed and running.
 - Update application.properties with your MySQL database URL, username, and password.
 - Use Maven or your preferred IDE to build and run the project.
+
+## Testing (JUnit)
+- JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities.
