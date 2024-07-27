@@ -5,7 +5,7 @@ This repository contains a web application built using Spring Boot and Thymeleaf
 ## Application Screenshot
 Below is a screenshot of the employee management application showcasing its user interface. The application allows users to view, add, update, and delete employee records. Additionally, it provides options for sorting employees by various criteria and displaying statistics on employee positions and age distribution.
 <br><br>
-![Application Screenshot](todo1.png)
+![Application Screenshot](employee..png)
 
 
 ## Application functions
