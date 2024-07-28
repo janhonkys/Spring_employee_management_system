@@ -9,7 +9,7 @@ import jakarta.persistence.Table;
 
 // Entity class representing an Employee in the application
 @Entity
-@Table(name="employee")
+@Table(name="employee1")
 public class Employee {
 
 	// Primary key for identifying each employee
